@@ -1,0 +1,7 @@
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\RESTful Service\RestService\RestService\bin\RestService.dll.config
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\RESTful Service\RestService\RestService\bin\RestService.dll
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\RESTful Service\RestService\RestService\bin\RestService.pdb
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\RESTful Service\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\RESTful Service\RestService\RestService\obj\Debug\RestService.csproj.CoreCompileInputs.cache
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\RESTful Service\RestService\RestService\obj\Debug\RestService.dll
+C:\Users\shawn\Desktop\Web Development\CSE446Assignment1\RESTful Service\RestService\RestService\obj\Debug\RestService.pdb
